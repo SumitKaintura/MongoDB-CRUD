@@ -1,0 +1,5 @@
+com\niit\MongoDbExample\controller\MyController.class
+com\niit\MongoDbExample\models\college.class
+com\niit\MongoDbExample\models\Student.class
+com\niit\MongoDbExample\MongoDbExampleApplication.class
+com\niit\MongoDbExample\repo\StudentRepository.class
